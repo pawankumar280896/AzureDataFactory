@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Web1",
+				"description": "jhh",
 				"type": "WebActivity",
 				"dependsOn": [],
 				"policy": {
